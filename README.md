@@ -128,11 +128,17 @@ A detailed consent form is provided in CONSENT.txt.
 Zaan Koshur aims to enable:
 
 ✔ Kashmiri Speech-to-Text (ASR)
+
 ✔ Kashmiri Text-to-Speech (TTS) voices
+
 ✔ Translation tools
+
 ✔ Kashmiri grammar & spell-check tools
+
 ✔ Online language-learning apps
+
 ✔ A complete digital archive of Kashmiri speech & text
+
 ✔ Open-source access for researchers, students, and the community
 
 This project is designed to grow into a full digital ecosystem for the Kashmiri language.
