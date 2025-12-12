@@ -1,0 +1,66 @@
+Zaan Koshur — Voice Contribution Consent Form
+---------------------------------------------
+
+Project Purpose:
+Zaan Koshur is a Kashmiri language preservation initiative that collects
+voice recordings to create speech datasets, text corpora, and language
+technology tools such as ASR (speech-to-text) and TTS (text-to-speech).
+All recordings support long-term cultural and linguistic preservation.
+
+By submitting any audio recording, the contributor agrees to the
+following:
+
+1. Voluntary Participation
+   I confirm that I am contributing my voice voluntarily and without any
+   obligation.
+
+2. Anonymity and Privacy
+   I understand that:
+   • My real name, identity, and personal details will NOT be collected.
+   • My voice will remain anonymous.
+   • No attempt will be made to identify me.
+   • The project will not store personal information.
+
+3. Allowed Uses
+   I give permission for my voice recordings to be used for:
+   • Linguistic research  
+   • Speech datasets  
+   • AI model training (ASR, TTS, NLP)  
+   • Language preservation and educational tools  
+
+   These uses may be public, academic, or open-source in nature.
+
+4. Restricted Uses (Ethical Protection)
+   I do NOT consent to the use of my voice for:
+   • Surveillance or biometric identification  
+   • Political profiling or manipulation  
+   • Harassment, misinformation, or abusive systems  
+   • Deepfake generation intended to mimic or impersonate me  
+   • Any culturally disrespectful or harmful applications  
+
+5. Storage and Access
+   I understand that:
+   • My recordings may be stored in a private or gated-access dataset.
+   • Only approved researchers or collaborators may access the audio.
+   • The project owner controls access permissions.
+
+6. Right to Withdraw
+   I may request removal of my recordings at any time by contacting the
+   project team. Reasonable efforts will be made to delete the files and
+   downstream versions where possible.
+
+7. Ownership and License
+   I grant Zaan Koshur permission to use, archive, and distribute my
+   recordings under the project’s Creative Commons Attribution 4.0
+   License (CC-BY 4.0) with added ethical conditions, provided my
+   anonymity is preserved.
+
+8. Agreement
+   By submitting audio, I acknowledge that:
+   • I have read and understood this consent form.
+   • I agree to all the terms listed above.
+   • I am at least 13 years old or have guardian permission.
+
+---------------------------------------------
+Thank you for supporting Kashmiri language preservation.
+---------------------------------------------
