@@ -31,7 +31,7 @@ The transcription must match the exact spoken Kashmiri, not the grammatically co
 
 If speaker says:
 
-مۍ چُھ گَھراس گَچّان
+                                                                              مۍ چُھ گَھراس گَچّان
 
 Do NOT change to Standard Kashmiri unless that is exactly what they said.
 
@@ -86,7 +86,7 @@ Use these tags for filler sounds:
 
 Example:
 
-بے [uh] گَژھان
+                                                                                 بے [uh] گَژھان
 
 🔉 9. Non-Speech Sounds
 
@@ -110,11 +110,11 @@ Write exactly as spoken, even if incorrect.
 
 If speaker says:
 
-بے گَھرا چَھ گتشان
+                                                                              بے گَھرا چَھ گتشان
 
 Do NOT correct to:
 
-بے گَھراس چَھ گَچّان
+                                                                              بے گَھراس چَھ گَچّان
 
 🪐 11. Foreign Words & Names
 
