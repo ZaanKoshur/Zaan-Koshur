@@ -104,13 +104,21 @@ metadata/
 Each row describes one speaker.
 
 Field                              	Description                    	           Example
+
 speaker_id                        	region-based ID                         	KS-SGR-001
+
 gender	                          male / female / other	                        female
+
 age_group                      	7–12, 13–17, 18–25, 26–40, 40+	                18–25
+
 district	                          home district	                             Srinagar
+
 accent_type                    	specific locality/dialect	                     Downtown
+
 environment                   	quiet / indoor / mild-noise / outdoor          	quiet
+
 device	                         microphone/phone used                         Motorola
+
 notes	                              optional comments                        	slight echo   
 
 ✔ Example Entry:
@@ -122,11 +130,17 @@ KS-SGR-001,female,18-25,Srinagar,Downtown,quiet,iPhone 12,None
 Each row describes one audio clip.
 
 Field                            	Description	                               Example
+
 file_name	                        audio file	                          KS-SGR-001_003.wav
+
 speaker_id                      	who recorded it                         	KS-SGR-001
+
 text                              transcription                             	مۍ چُھ آوان
+
 duration_seconds	                clip length	                                2.14
+
 environment	                      recording conditions	                      quiet
+
 quality_rating                     	1–5 (human review)                        	4
 
 
