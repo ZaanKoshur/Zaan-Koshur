@@ -102,25 +102,17 @@ metadata/
 ⭐ 4. Speaker Metadata Format (speakers.csv)
 Each row describes one speaker.
 
-| Field        | Description                          | Example       |
+| Field        | Description                          | Example     |
+|--------------|--------------------------------------|-------------|
+| speaker_id   | region-based ID                      | KS-SGR-001  |
+| gender       | male / female / other                | female      |
+| age_group    | 7–12, 13–17, 18–25, 26–40, 40+       | 18–25       |
+| district     | home district                        | Srinagar    |
+| accent_type  | specific locality/dialect            | Downtown    |
+| environment  | quiet / indoor / mild-noise / outdoor| quiet       |
+| device       | microphone/phone used                | Motorola    |
+| notes        | optional comments                    | slight echo |
 
-|--------------|--------------------------------------|---------------|
-
-| speaker_id   |            region-based ID            | KS-SGR-001    |
-
-| gender       |       male / female / other | female  |               
-
-| age_group    | 7–12, 13–17, 18–25, 26–40, 40+        | 18–25        |
-
-| district     | home district                        | Srinagar      |
-
-| accent_type  | specific locality/dialect            | Downtown      |
-
-| environment  | quiet / indoor / mild-noise / outdoor| quiet         |
-
-| device       | microphone/phone used                | Motorola      |
-
-| notes        | optional comments                    | slight echo   |
 
 ✔ Example Entry:
 speaker_id,gender,age_group,district,accent_type,environment,device,notes
