@@ -28,29 +28,22 @@ Digital archives & cultural preservation
 Our goal is simple but powerful:
 
 To ensure Kashmiri survives, grows, and thrives in the digital age.
+
+
 📂 Repository Structure
 
 This repository follows a clean, scalable structure used in professional dataset projects:
 
 ZaanKoshur/
  ├── audio_raw/           # Unprocessed recordings (private or internal only)
- 
  ├── audio_clean/         # Cleaned, trimmed, 16 kHz mono WAV files
- 
  ├── transcriptions/      # Text transcripts for each audio file
- 
  ├── metadata/            # Speaker metadata, dataset splits, CSVs
- 
  ├── docs/                # Documentation, rules, contribution guides
- 
  ├── scripts/             # Processing and utility scripts
- 
  ├── README.md
- 
  ├── LICENSE
- 
  ├── CONSENT.txt
- 
  └── .gitignore
 This structure ensures easy scaling for thousands of files and compatibility with research tools.
 
