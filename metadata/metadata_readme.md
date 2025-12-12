@@ -48,4 +48,3 @@ If new metadata fields are needed:
 - reflect changes in speakers.csv and clips.csv  
 
 All contributions must follow privacy and ethical guidelines in CONSENT.txt.
-
