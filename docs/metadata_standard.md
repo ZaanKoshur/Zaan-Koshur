@@ -106,9 +106,9 @@ Each row describes one speaker.
 
 |--------------|--------------------------------------|---------------|
 
-| speaker_id   | region-based ID                      | KS-SGR-001    |
+| speaker_id   |            region-based ID            | KS-SGR-001    |
 
-| gender       | male / female / other                | female        |
+| gender       |       male / female / other | female  |               
 
 | age_group    | 7–12, 13–17, 18–25, 26–40, 40+        | 18–25        |
 
