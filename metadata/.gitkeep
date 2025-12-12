@@ -1,1 +1,39 @@
+# Ignore all audio files (we store them on HuggingFace)
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+audio_raw/
+audio_clean/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints (if added later)
+*.pt
+*.pth
+*.ckpt
+
+# Large dataset / exports
+*.zip
+*.tar.gz
+*.tar
 
