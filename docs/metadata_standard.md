@@ -100,26 +100,27 @@ metadata/
    dataset_readme.md
 
 ⭐ 4. Speaker Metadata Format (speakers.csv)
-
 Each row describes one speaker.
 
-Field                              	Description                    	           Example
+| Field        | Description                          | Example       |
 
-speaker_id                        	region-based ID                         	KS-SGR-001
+|--------------|--------------------------------------|---------------|
 
-gender	                          male / female / other	                        female
+| speaker_id   | region-based ID                      | KS-SGR-001    |
 
-age_group                      	7–12, 13–17, 18–25, 26–40, 40+	                18–25
+| gender       | male / female / other                | female        |
 
-district	                          home district	                             Srinagar
+| age_group    | 7–12, 13–17, 18–25, 26–40, 40+        | 18–25        |
 
-accent_type                    	specific locality/dialect	                     Downtown
+| district     | home district                        | Srinagar      |
 
-environment                   	quiet / indoor / mild-noise / outdoor          	quiet
+| accent_type  | specific locality/dialect            | Downtown      |
 
-device	                         microphone/phone used                         Motorola
+| environment  | quiet / indoor / mild-noise / outdoor| quiet         |
 
-notes	                              optional comments                        	slight echo   
+| device       | microphone/phone used                | Motorola      |
+
+| notes        | optional comments                    | slight echo   |
 
 ✔ Example Entry:
 speaker_id,gender,age_group,district,accent_type,environment,device,notes
@@ -129,19 +130,22 @@ KS-SGR-001,female,18-25,Srinagar,Downtown,quiet,iPhone 12,None
 
 Each row describes one audio clip.
 
-Field                            	Description	                               Example
+| Field             | Description               | Example              |
 
-file_name	                        audio file	                          KS-SGR-001_003.wav
+|-------------------|---------------------------|----------------------|
 
-speaker_id                      	who recorded it                         	KS-SGR-001
+| file_name         | audio file                | KS-SGR-001_003.wav   |
 
-text                              transcription                             	مۍ چُھ آوان
+| speaker_id        | who recorded it           | KS-SGR-001           |
 
-duration_seconds	                clip length	                                2.14
+| text              | transcription             | مۍ چُھ آوان             |
 
-environment	                      recording conditions	                      quiet
+| duration_seconds  | clip length               | 2.14                 |
 
-quality_rating                     	1–5 (human review)                        	4
+| environment       | recording conditions      | quiet                |
+
+| quality_rating    | 1–5 (human review)        | 4                    |
+
 
 
 ✔ Example Entry:
