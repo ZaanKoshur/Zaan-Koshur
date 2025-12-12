@@ -122,21 +122,15 @@ KS-SGR-001,female,18-25,Srinagar,Downtown,quiet,iPhone 12,None
 
 Each row describes one audio clip.
 
-| Field             | Description               | Example              |
+| Field             | Description               | Example            |
+|-------------------|---------------------------|--------------------|
+| file_name         | audio file                | KS-SGR-001_003.wav |
+| speaker_id        | who recorded it           | KS-SGR-001         |
+| text              | transcription             | مۍ چُھ آوان           |
+| duration_seconds  | clip length               | 2.14               |
+| environment       | recording conditions      | quiet              |
+| quality_rating    | 1–5 (human review)        | 4                  |
 
-|-------------------|---------------------------|----------------------|
-
-| file_name         | audio file                | KS-SGR-001_003.wav   |
-
-| speaker_id        | who recorded it           | KS-SGR-001           |
-
-| text              | transcription             | مۍ چُھ آوان             |
-
-| duration_seconds  | clip length               | 2.14                 |
-
-| environment       | recording conditions      | quiet                |
-
-| quality_rating    | 1–5 (human review)        | 4                    |
 
 
 
