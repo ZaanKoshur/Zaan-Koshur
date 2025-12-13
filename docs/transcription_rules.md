@@ -9,7 +9,7 @@ Zaan Koshur uses the Perso-Arabic script (Nastaliq) for transcription.
 
 Example:
 
-"I am going home" → بے گَھراس چَھ آنئ
+" I am going Home " →  بہٕ چھُس گَرٕ گَژھان 
 
 🔡 2. Lowercase Standard
 
@@ -20,10 +20,12 @@ All text must be written in lowercase, even if the script itself does not differ
 Avoid punctuation unless required for clarity or meaning.
 
 ❌ Wrong:
-                                                                               بے گَھراس چَھ آنئ۔
+                                                                                                                                                     بہٕ چھُس گَرٕ گَژھان- 
+۔
 
 ✔ Correct:
-                                                                                بے گَھراس چَھ آنئ
+                                                                                                                                                      بہٕ چھُس گَرٕ گَژھان      
+
 
 🔊 4. Write What Is Spoken (Not Corrected Urdu/Hindi)
 
@@ -31,7 +33,7 @@ The transcription must match the exact spoken Kashmiri, not the grammatically co
 
 If speaker says:
 
-                                                                              مۍ چُھ گَھراس گَچّان
+ Cxe Kya Chukh Krn -  ژٕ کیٛا چُھکھ کرٛن  
 
 Do NOT change to Standard Kashmiri unless that is exactly what they said.
 
@@ -45,23 +47,31 @@ Do NOT translate it into another language or dialect.
 Use standardized spellings for:
 
 Word	Standard Form
-me / I	مۍ
+me    میہ
 
-you	تُہ
+you 	 ژٕ
 
-he	یو
+he	   سُہ
 
-she	یِم
+she	   سہٕ
 
-home	گَر
+home    گَر
 
-come	آو
+come	  آو
 
-go	گَچ
+go	   گژھ
 
-eat	کأہ
+eat    	کھیوٚن
 
-drink	چھُہ
+Brother   بوٗؠ
+
+Sister   بیٚنہِ 
+
+Milk    دۄد
+
+Tiger    سٕہہ
+
+Laugh     اسُن
 
 (We will expand this list as the dataset grows.)
 
@@ -86,7 +96,7 @@ Use these tags for filler sounds:
 
 Example:
 
-                                                                                 بے [uh] گَژھان
+                                                                                 بژٕ کیٛا چُھکھ کرٛن 
 
 🔉 9. Non-Speech Sounds
 
@@ -110,12 +120,11 @@ Write exactly as spoken, even if incorrect.
 
 If speaker says:
 
-                                                                              بے گَھرا چَھ گتشان
+                                                                              ژٕ کیا چُھ کرن
 
 Do NOT correct to:
 
-                                                                              بے گَھراس چَھ گَچّان
-
+                                                                             ژٕ کیا چُکھ کرآن/ژٕ کیٛا چُکھ کرٛن
 🪐 11. Foreign Words & Names
 
 Write Kashmiri pronunciation, not English spelling.
