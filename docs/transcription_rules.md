@@ -55,9 +55,9 @@ he	   سُہ
 
 she	   سہٕ
 
-home    گَر
+home    گَھرٕ
 
-come	  آو
+come	  وٚل
 
 go	   گژھ
 
