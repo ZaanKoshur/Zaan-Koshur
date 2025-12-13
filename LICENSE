@@ -1,6 +1,6 @@
-Zaan Koshur — Kashmiri Language Preservation Project  
-License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
-Additional Ethical Use Requirements (see section at bottom)
+Zaan Koshur — Kashmiri Language Preservation Project
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Additional Ethical Use Requirements (see sections below)
 
 ----------------------------------------------------------------------
 OFFICIAL CC BY 4.0 LICENSE TEXT
@@ -13,44 +13,79 @@ https://creativecommons.org/licenses/by/4.0/
 
 You are free to:
 
-• SHARE — copy and redistribute the material in any medium or format  
-• ADAPT — remix, transform, and build upon the material for any purpose, even commercially  
+• SHARE — copy and redistribute the material in any medium or format
+• ADAPT — remix, transform, and build upon the material for any purpose,
+  even commercially
 
 Under the following terms:
 
-• ATTRIBUTION — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-• NO ADDITIONAL RESTRICTIONS — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+• ATTRIBUTION — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+• NO ADDITIONAL RESTRICTIONS — You may not apply legal terms or
+  technological measures that legally restrict others from doing
+  anything the license permits.
+
+The licensor cannot revoke these freedoms as long as you follow the
+license terms.
+
+----------------------------------------------------------------------
+SCOPE OF LICENSE
+----------------------------------------------------------------------
+
+The Creative Commons Attribution 4.0 International (CC BY 4.0) license
+applies ONLY to the following components of the Zaan Koshur project:
+
+• Documentation
+• Metadata schemas and standards
+• Transcription rules and guidelines
+• Scripts, source code, and utilities
+• Non-audio textual resources
+
+Voice recordings, raw audio files, processed audio, and any derived
+acoustic or biometric representations are NOT publicly licensed under
+CC BY 4.0.
+
+Access to voice data is restricted and controlled exclusively by the
+project owner and authorized maintainers. Audio data may not be shared,
+redistributed, published, or reused without explicit written permission
+from the project owner.
 
 ----------------------------------------------------------------------
 ZAAN KOSHUR — ADDITIONAL ETHICAL USE CLAUSE
 ----------------------------------------------------------------------
 
-Because this project contains voice recordings and language material
+Because this project involves language material and voice contributions
 from real Kashmiri speakers, the following ethical requirements apply:
 
-1. Voice recordings must never be used for surveillance, biometric identification,
-   or any activity that violates personal privacy.
+1. Voice recordings must never be used for surveillance, biometric
+   identification, speaker profiling, or any activity that violates
+   personal privacy.
 
-2. The dataset may not be used to create harmful, abusive, or culturally disrespectful applications.
+2. Project resources must not be used to create harmful, abusive,
+   exploitative, or culturally disrespectful applications.
 
-3. Contributors' voices must remain anonymous.  
+3. Contributors’ voices must remain anonymous.
    No attempt may be made to identify, trace, or deanonymize speakers.
 
-4. Models trained on this dataset must not be used for political manipulation,
-   harassment, discrimination, or misinformation.
+4. Models trained using Zaan Koshur resources must not be used for
+   political manipulation, harassment, discrimination, or
+   misinformation.
 
-5. Any derivative dataset or model must preserve the spirit of cultural respect
-   and language preservation that this project represents.
+5. Any derivative work must preserve the spirit of cultural respect,
+   linguistic preservation, and community benefit that this project
+   represents.
 
-6. If contributors request removal of their data, downstream users must comply
-   with reasonable efforts and delete derived files where possible.
+6. If contributors request removal of their data, reasonable efforts
+   must be made by authorized holders to delete the data and any derived
+   artifacts where feasible.
 
-Use of this dataset signifies agreement with both the CC BY 4.0 license
-and the ethical requirements above.
+Use of any Zaan Koshur project resources signifies agreement with the
+applicable license terms and the ethical requirements defined herein.
 
 ----------------------------------------------------------------------
 COPYRIGHT © ZAAN KOSHUR PROJECT 2025
-This dataset and documentation are provided “as-is” without warranty.
+
+This project and its documentation are provided “as-is” without warranty
+of any kind, express or implied.
 ----------------------------------------------------------------------
